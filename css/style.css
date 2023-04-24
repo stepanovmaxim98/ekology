@@ -372,12 +372,12 @@ img {
         text-align: center;
     }
 }
-@media (min-width: 400px) and (max-width: 576px){
+@media (min-width: 300px) and (max-width: 576px){
     .menu_link{
         display: none;
     }
     .container{
-        width: 350px;
+        width: 280px;
     }
     .header_img{
         display: block;
